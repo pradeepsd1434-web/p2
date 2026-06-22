@@ -11,6 +11,6 @@ public class App {
             System.out.println("appplicatin excute succes");
 
 
-
+            git remote
     }
 }
